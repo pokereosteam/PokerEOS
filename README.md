@@ -3,5 +3,6 @@ var signature = 'SIG_K1_Kbcv3L4tQ6PUwT9bmDc5dWNfEUWwbaxrpwFruTWpM9H3jto4BVUdFq1M
 var pubkey = 'EOS6yfs3y6fLiEX7kYHJvTx2jycCNc21v7ygLuLvGPuVARZwbEvdi';
 
 
+
 card1 ♥8 ♣A ♣9 ♣K ♣4
 card2 ♠3 ♦K ♥7 ♦2 ♦8
