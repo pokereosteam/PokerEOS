@@ -2,8 +2,8 @@
 
 # example   
 
-var seed = '4810:HmWsAEAxpa8esa13FByF:1544757330';   
-var signature = 'SIG_K1_Kbcv3L4tQ6PUwT9bmDc5dWNfEUWwbaxrpwFruTWpM9H3jto4BVUdFq1MmXRgY4pTV9N5f36cCV9xaprwZ57cwkcP6794w8';  
+var seed = '482715:6AdSyYq5WohEkTmzvOTj:1545637913';   
+var signature = 'SIG_K1_KjpKRJdH7wfyqhs1qMY5iu5zbySYRz6hqr7KDAsgEZvdsgArBTU8RinyN4EqSHPHKJ6mUSCXk4YW8deVz9iqcMz3Hy8ubV';  
 var pubkey = 'EOS6yfs3y6fLiEX7kYHJvTx2jycCNc21v7ygLuLvGPuVARZwbEvdi';  
 
 
